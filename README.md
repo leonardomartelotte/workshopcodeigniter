@@ -4,4 +4,4 @@
 
 # Para direcionar a aplicação para o seu próprio banco de dados, edite o arquivo application/config/database.php
 
-# O modelo do banco de dados utilizado está na pasta sql/Clientes.sql. Para utilizá-lo localmente importe o arquivo SQL em seu ambiente e configure o arquivo database.php com os os dados referentes ao seu ambiente (host, senha).
+# O modelo do banco de dados utilizado está na pasta sql/Clientes.sql. Para utilizá-lo localmente importe o arquivo SQL em seu ambiente e configure o arquivo database.php com os dados referentes ao seu ambiente (host, senha).
